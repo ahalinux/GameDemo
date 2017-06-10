@@ -35,18 +35,20 @@ sysinfo.txt
 
 # MyFiles
 /Assets/Fonts/
-/Assets/GoogleVR/
 /Assets/Icons/
 /Assets/Images/
 /Assets/Plugins/
 /Assets/Sounds/
 /Assets/Test/
 /Assets/START Pack/
-/Assets/NGUI/
 /Assets/Texture/
 /_Build/
 /_OtherFiles/
 /ProjectSettings/
+
+# Plugins
+/Assets/GoogleVR/
+/Assets/NGUI/
 
 # MyOthers
 GvrIgnoreManifestMergeCheck.txt
